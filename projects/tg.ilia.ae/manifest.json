@@ -1,15 +1,15 @@
 {
   "project": "tg.ilia.ae",
-  "commit": "9e35045",
-  "commitFull": "9e35045c245a86243d849865d375279931760fb1",
+  "commit": "d27021f",
+  "commitFull": "d27021fe0e1ad8e6382cd18bc57c24de34b1ff7c",
   "branch": "main",
-  "builtAt": "2026-06-19T11:37:23Z",
-  "publishedAt": "2026-06-19T11:37:23Z",
+  "builtAt": "2026-09-16T18:20:45Z",
+  "publishedAt": "2026-09-16T18:20:45Z",
   "bundles": [
     {
       "name": "main.js",
-      "url": "https://tg.ilia.ae/main-2FAJ5HKK.js",
-      "sha256": "c66da813b7026aec9ea82e7a7a765ec7b44135c79a9a83f97d7f77ce21cb641e",
+      "url": "https://tg.ilia.ae/main-EZ6OUI22.js",
+      "sha256": "ba44805cc8ee5d70c9a39a297a15421d069e19417a60d86c97977fc28864e733",
       "size": 160133
     }
   ],

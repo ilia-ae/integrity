@@ -1,0 +1,17 @@
+{
+  "project": "tg.ilia.ae",
+  "commit": "d27021f",
+  "commitFull": "d27021fe0e1ad8e6382cd18bc57c24de34b1ff7c",
+  "branch": "main",
+  "builtAt": "2026-09-16T18:20:45Z",
+  "publishedAt": "2026-09-16T18:20:45Z",
+  "bundles": [
+    {
+      "name": "main.js",
+      "url": "https://tg.ilia.ae/main-EZ6OUI22.js",
+      "sha256": "ba44805cc8ee5d70c9a39a297a15421d069e19417a60d86c97977fc28864e733",
+      "size": 160133
+    }
+  ],
+  "sourceRepoVisibility": "private"
+}
