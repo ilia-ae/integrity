@@ -1,0 +1,17 @@
+{
+  "project": "tg.ilia.ae",
+  "commit": "a7a02b7",
+  "commitFull": "a7a02b703f7bf5028b19349170d33da4331f781e",
+  "branch": "main",
+  "builtAt": "2026-11-13T13:19:41Z",
+  "publishedAt": "2026-11-13T13:19:41Z",
+  "bundles": [
+    {
+      "name": "main.js",
+      "url": "https://tg.ilia.ae/main-DE74S3M6.js",
+      "sha256": "683eb98210472f657998ab30761e7683b001eeec43685ffcf9f6d2aeb63e36cf",
+      "size": 162844
+    }
+  ],
+  "sourceRepoVisibility": "private"
+}
