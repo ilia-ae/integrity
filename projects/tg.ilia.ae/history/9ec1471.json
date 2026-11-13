@@ -1,0 +1,17 @@
+{
+  "project": "tg.ilia.ae",
+  "commit": "9ec1471",
+  "commitFull": "9ec14716925342982b0a3f0f5f6e2a57f2e681bc",
+  "branch": "main",
+  "builtAt": "2026-11-13T17:20:00Z",
+  "publishedAt": "2026-11-13T17:20:00Z",
+  "bundles": [
+    {
+      "name": "main.js",
+      "url": "https://tg.ilia.ae/main-DBIPMTIM.js",
+      "sha256": "27173971074f179eb16bed834b41e8358bd8a4d9bca622509286bc3c77f4937c",
+      "size": 162844
+    }
+  ],
+  "sourceRepoVisibility": "private"
+}
